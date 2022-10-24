@@ -69,7 +69,7 @@
     "id": 6,
     "title": "Creating Multi Task Models With Keras",
     "price": 168,
-    "description": "you will learn to create and train multi-task, multi-output models with Keras. You will learn to use Keras' functional API to create a multi output model which will be trained to learn two different labels given the same input example.",
+    "description": "You will learn to create and train multi-task, multi-output models with Keras. You will learn to use Keras' functional API to create a multi output model which will be trained to learn two different labels given the same input example.",
     "category": "Deep Learning",
     "image": "https://img.freepik.com/free-photo/3d-render-modern-low-poly-plexus-design_1048-14659.jpg?w=1380&t=st=1666626873~exp=1666627473~hmac=96858203dd8e7941f8971db713ddb5d96757653de05815ee7c7967b439c94319",
     "rating": {
