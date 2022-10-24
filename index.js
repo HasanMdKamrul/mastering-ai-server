@@ -7,11 +7,26 @@ const cors = require("cors");
 // ** using the cors
 app.use(cors());
 
+// ** data import
+const courses = require("./data/courses.json");
+
 // ** specify the port for the localhost
 const port = process.env.PORT || 15000;
 
 // ** entry api point
 app.get("/", (req, res) => res.send("mastering-ai running"));
+
+// ** courses api endpoint
+app.get("/courses", (req, res) => {
+  res.send(courses);
+});
+
+// ** course details api end points (dynamic course data load)
+app.get("/courses/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const courseDetails = courses.find((course) => course.id === id);
+  res.send(courseDetails);
+});
 
 // ** app listen
 
