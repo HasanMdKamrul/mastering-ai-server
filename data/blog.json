@@ -16,7 +16,7 @@
   },
   {
     "id": 4,
-    "question": "What is Node? How does Node work??",
+    "question": "What is Node? How does Node work?",
     "answer": "Node JS is the JS runtime environment.Which achieves low latency and high throughput by taking a “non-blocking” approach to serving requests.which means synchronous and asynchronous workflow.In other words, Node. js wastes no time or resources on waiting for I/O requests to return.In the server-side node JS works like browsers v8 engines there are a few differences but eventually it converts javascript code into machine code, it is highly scalable, lightweight, fast, and data-intensive."
   }
 ]

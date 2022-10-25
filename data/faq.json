@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "What do you understand by Artificial Intelligence?",
+    "answer": "Artificial intelligence is computer science technology that emphasizes creating intelligent machine that can mimic human behavior. Here Intelligent machines can be defined as the machine that can behave like a human, think like a human, and also capable of decision making. "
+  },
+  {
+    "id": 2,
+    "question": "Why do we need Artificial Intelligence?",
+    "answer": "The goal of Artificial intelligence is to create intelligent machines that can mimic human behavior. We need AI for today's world to solve complex problems, make our lives more smoothly by automating the routine work, saving the manpower, and to perform many more other tasks."
+  },
+  {
+    "id": 3,
+    "question": "What about course access?",
+    "answer": "We're currently offering lifetime access. But in future we're planing to convert it in a subscription model whrere the courses will be more cheaper and affordable to a wide range of audiences"
+  },
+  {
+    "id": 4,
+    "question": "Is there any trial option?",
+    "answer": "Unfortunately no at the moment but we'll bring this feature asap."
+  }
+]
