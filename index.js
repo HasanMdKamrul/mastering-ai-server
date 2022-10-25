@@ -10,6 +10,7 @@ app.use(cors());
 // ** data import
 const courses = require("./data/courses.json");
 const blogs = require("./data/blog.json");
+const faqs = require("./data/faq.json");
 
 // ** specify the port for the localhost
 const port = process.env.PORT || 15000;
@@ -30,7 +31,8 @@ app.get("/courses/:id", (req, res) => {
 });
 // ** blog api endpoint
 app.get("/blogs", (req, res) => res.send(blogs));
-
+// ** faq api end points
+app.get("/faq", (req, res) => res.send(faqs));
 // ** app listen
 
 app.listen(port, () =>
