@@ -1,0 +1,7 @@
+[
+  {
+    "id": 1,
+    "question": "What is cors?",
+    "answer": "Cors states for Cross-Origin Resource Sharing. Which is basically an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources. Cors is also enables controlled access to resources located outside of a given domain. This allows to share the resources or data into any platform such as web,android,ios etc. However, it also provides potential for cross-domain attacks, if a website's CORS policy is poorly configured and implemented. CORS is not a protection against cross-origin attacks such as cross-site request forgery (CSRF). "
+  }
+]
