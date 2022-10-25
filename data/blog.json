@@ -3,5 +3,20 @@
     "id": 1,
     "question": "What is cors?",
     "answer": "Cors states for Cross-Origin Resource Sharing. Which is basically an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources. Cors is also enables controlled access to resources located outside of a given domain. This allows to share the resources or data into any platform such as web,android,ios etc. However, it also provides potential for cross-domain attacks, if a website's CORS policy is poorly configured and implemented. CORS is not a protection against cross-origin attacks such as cross-site request forgery (CSRF). "
+  },
+  {
+    "id": 2,
+    "question": "Why are you using firebase? What other options do you have to implement authentication?",
+    "answer": "Firebase is a easy to go.I use firebase because of it is safer,secure, easy to maintain, easy to understand the syntax, all in one solution. Besides Many custom mobile app development companies utilize Firebase to build applications for their clients because of its ability to manage data in real-time and provide an enhanced app-usage experience to the users."
+  },
+  {
+    "id": 3,
+    "question": "How does the private route work?",
+    "answer": "First of all, the private route component is similar to the public route, the only change is that redirect URL and authenticate condition. Let's deep dive if the user is authenticated user will redirected to the route user requested but if the user dosen't authenticated user will immidietly redirected to the login route. Once the login is successfull user will redirected to the route requested or the home route"
+  },
+  {
+    "id": 4,
+    "question": "What is Node? How does Node work??",
+    "answer": "Node JS is the JS runtime environment.Which achieves low latency and high throughput by taking a “non-blocking” approach to serving requests.which means synchronous and asynchronous workflow.In other words, Node. js wastes no time or resources on waiting for I/O requests to return.In the server-side node JS works like browsers v8 engines there are a few differences but eventually it converts javascript code into machine code, it is highly scalable, lightweight, fast, and data-intensive."
   }
 ]
