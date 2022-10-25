@@ -7,7 +7,7 @@
   {
     "id": 2,
     "question": "Why are you using firebase? What other options do you have to implement authentication?",
-    "answer": "Firebase is a easy to go.I use firebase because of it is safer,secure, easy to maintain, easy to understand the syntax, all in one solution. Besides Many custom mobile app development companies utilize Firebase to build applications for their clients because of its ability to manage data in real-time and provide an enhanced app-usage experience to the users."
+    "answer": "Firebase is a easy to go.I use firebase because of it is safer,secure, easy to maintain, easy to understand the syntax, all in one solution. Besides Many custom mobile app development companies utilize Firebase to build applications for their clients because of its ability to manage data in real-time and provide an enhanced app-usage experience to the users. There are few alternatives to the firebase such as Azure authentication, AWS Amplify,Back4App, Kuzzle etc"
   },
   {
     "id": 3,
