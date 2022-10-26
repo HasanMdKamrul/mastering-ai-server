@@ -14,7 +14,15 @@
     "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
+    "steps": [
+      "Introduction and Project Overview",
+      "Data Cleaning",
+      "Accounting for Class Imbalance ",
+      "Training a Two-Class Boosted Decision Tree Model and Hyperparameter Tuning",
+      "Scoring and Evaluating the Models",
+      "Publishing the Trained Model as a Web Service for Inference"
+    ]
   },
   {
     "id": 2,
@@ -31,7 +39,18 @@
     "rating": {
       "rate": 4.1,
       "count": 259
-    }
+    },
+    "steps": [
+      "Set up colab runtime environment ",
+      "Setup Configurations",
+      "Augmentations ",
+      "Custom Dataset",
+      "Load Dataset into batches",
+      "Create Segmentation Model",
+      "Create Train and Eval Function",
+      "Train Model",
+      "Inference"
+    ]
   },
   {
     "id": 3,
@@ -48,7 +67,16 @@
     "rating": {
       "rate": 4.7,
       "count": 500
-    }
+    },
+    "steps": [
+      "Encode the labels ",
+      "Understand neural networks",
+      "Preprocess image examples ",
+      "Create a neural network model",
+      "Train the model to fit the dataset",
+      "Evaluate the model",
+      "Visualize the predictions"
+    ]
   },
   {
     "id": 4,
@@ -65,7 +93,19 @@
     "rating": {
       "rate": 2.1,
       "count": 430
-    }
+    },
+    "steps": [
+      "Creating an IBM Watson Account ",
+      "Creating Intents",
+      "OPTIONAL: Practice Creating Intents",
+      "Entities and Dialog-Parent node",
+      "Dialog-Adding Child nodes",
+      "OPTIONAL: Practice Creating Dialog Nodes",
+      "Messenger Integration",
+      "Testing the Chatbot",
+      "OPTIONAL: Challenge Task",
+      "OPTIONAL: Challenge Task: The Solution"
+    ]
   },
   {
     "id": 5,
@@ -82,7 +122,17 @@
     "rating": {
       "rate": 4.6,
       "count": 400
-    }
+    },
+    "steps": [
+      "Introduction",
+      "Setup and Imports",
+      "Importing Data",
+      "Tokenizer",
+      "Padding and Truncating Sequences",
+      "Preparing Labels",
+      "Creating and Training RNN Model",
+      "Model Evaluation"
+    ]
   },
   {
     "id": 6,
@@ -99,6 +149,14 @@
     "rating": {
       "rate": 3.9,
       "count": 70
-    }
+    },
+    "steps": [
+      "Introduction",
+      "Create Dataset",
+      "Dataset Generator",
+      "Create Model",
+      "Train the Model",
+      "Final Predictions"
+    ]
   }
 ]
