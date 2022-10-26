@@ -11,12 +11,17 @@ app.use(cors());
 const courses = require("./data/courses.json");
 const blogs = require("./data/blog.json");
 const faqs = require("./data/faq.json");
+const topics = require("./data/course_topics.json");
 
 // ** specify the port for the localhost
 const port = process.env.PORT || 15000;
 
 // ** entry api point
 app.get("/", (req, res) => res.send("mastering-ai running"));
+
+// ** course topics api end point
+
+app.get("/topics", (req, res) => res.send(topics));
 
 // ** courses api endpoint
 app.get("/courses", (req, res) => {
