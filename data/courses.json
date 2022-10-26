@@ -7,6 +7,10 @@
     "category": "ML",
     "duration": 5,
     "image": "https://i.ibb.co/9q7x28B/image1.webp",
+    "instructor": {
+      "name": "Snehan Kekre",
+      "picture": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/30/b894a5e9eb4ed2bfa14d5ac3747af9/me.jpg?auto=format%2Ccompress&dpr=1&w=200&h=200"
+    },
     "rating": {
       "rate": 3.9,
       "count": 120
@@ -19,6 +23,10 @@
     "description": "Understand the Segmentation Dataset and you will write a custom dataset class for Image-mask dataset. Additionally,  you will apply segmentation augmentation to augment images as well as its masks. For image-mask augmentation you will use albumentation library. You will plot the image-Mask pair.",
     "category": "Deep Learning",
     "duration": 2,
+    "instructor": {
+      "name": "Parth Dhameliya",
+      "picture": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/4d/12b2b015624999b79f0ba147ce1129/1615968341101.jpg?auto=format%2Ccompress&dpr=1&w=200&h=200"
+    },
     "image": "https://i.ibb.co/NLJvwBY/image2.webp",
     "rating": {
       "rate": 4.1,
@@ -32,6 +40,10 @@
     "description": "You will learn the basics of using Keras with TensorFlow as its backend and use it to solve a basic image classification problem. By the end of this project, you will have created, trained, and evaluated a Neural Network model that will be able to predict digits from hand-written images with a high degree of accuracy. You also will have learned the fundamentals of neural networks, TensorFlow, and Keras.",
     "category": "AI",
     "duration": 3,
+    "instructor": {
+      "name": "Amit Yadav",
+      "picture": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/af/4419ae2c374ea5b33be6620ee465c1/for_social.jpg?auto=format%2Ccompress&dpr=1&w=200&h=200"
+    },
     "image": "https://i.ibb.co/5sNNdfj/image3.webp",
     "rating": {
       "rate": 4.7,
@@ -45,7 +57,10 @@
     "description": "You will learn how to build, test and deploy an AI chatbot that will be able to interact with your customers, answer their questions and through which your clients will be able to make a booking. We will begin this guided project by creating an IBM Cloud account. We will be using the Free plan of IBM cloud which allows up to 1000 unique Monthly Active Users (MAU) to chat with your chatbot and up to 10,000 messages per month.",
     "category": "AI",
     "duration": 5,
-
+    "instructor": {
+      "name": "Abhishek Jha",
+      "picture": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/e1/295bd80e194f5c928a6dff8cc683cb/profile.jpg?auto=format%2Ccompress&dpr=1&w=200&h=200"
+    },
     "image": "https://i.ibb.co/WBvfNhT/image4.webp",
     "rating": {
       "rate": 2.1,
@@ -59,6 +74,10 @@
     "description": "We are going to create a recurrent neural network and train it on a tweet emotion dataset to learn to recognize emotions in tweets. The dataset has thousands of tweets each classified in one of 6 emotions. This is a multi class classification problem in the natural language processing domain. We will be using TensorFlow as our machine learning framework.",
     "category": "ML",
     "duration": 4,
+    "instructor": {
+      "name": "Amit Yadav",
+      "picture": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/af/4419ae2c374ea5b33be6620ee465c1/for_social.jpg?auto=format%2Ccompress&dpr=1&w=200&h=200"
+    },
     "image": "https://i.ibb.co/yk6CXQR/image5.webp",
     "rating": {
       "rate": 4.6,
@@ -71,6 +90,11 @@
     "price": 168,
     "description": "You will learn to create and train multi-task, multi-output models with Keras. You will learn to use Keras' functional API to create a multi output model which will be trained to learn two different labels given the same input example.",
     "category": "Deep Learning",
+    "duration": 7,
+    "instructor": {
+      "name": "Amit Yadav",
+      "picture": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/af/4419ae2c374ea5b33be6620ee465c1/for_social.jpg?auto=format%2Ccompress&dpr=1&w=200&h=200"
+    },
     "image": "https://i.ibb.co/rHRcsDX/image6.webp",
     "rating": {
       "rate": 3.9,
