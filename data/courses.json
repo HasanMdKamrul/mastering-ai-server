@@ -30,7 +30,7 @@
     "title": "Basic Image Classification with TensorFlow",
     "price": 55.99,
     "description": "You will learn the basics of using Keras with TensorFlow as its backend and use it to solve a basic image classification problem. By the end of this project, you will have created, trained, and evaluated a Neural Network model that will be able to predict digits from hand-written images with a high degree of accuracy. You also will have learned the fundamentals of neural networks, TensorFlow, and Keras.",
-    "category": "men's clothing",
+    "category": "AI",
     "duration": 3,
     "image": "https://i.ibb.co/5sNNdfj/image3.webp",
     "rating": {
